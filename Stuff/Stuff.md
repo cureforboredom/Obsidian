@@ -1,1 +1,1 @@
-![[1800ss_getty_rf_apples.webp]]
+![[Pasted image 20230831170754.png]]
