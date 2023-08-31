@@ -2,8 +2,11 @@
 date: 08-31-23
 title: Fruit
 summary: stuff about fruit
-length: 15
-tags: fruit, apples, oranges
+length: 4min
+tags:
+  - fruit
+  - apples
+  - oranges
 ---
 
 # Header 1

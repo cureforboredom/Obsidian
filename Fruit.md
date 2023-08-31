@@ -2,8 +2,14 @@
 date: 08-31-23
 title: Fruit
 summary: stuff about fruit
-length: 5
-tags: fruit, apples, oranges, blueberries, starfruit, peaches
+length: 4min
+tags:
+  - fruit
+  - apples
+  - oranges
+  - blueberries
+  - starfruit
+  - peaches
 ---
 
 # The best fruits
