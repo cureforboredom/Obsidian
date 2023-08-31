@@ -1,1 +1,1 @@
-![[Attachments/stuff.excalidraw.md]]
+Stuff
