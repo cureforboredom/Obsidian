@@ -1,0 +1,1 @@
+![[1800ss_getty_rf_apples.webp]]
