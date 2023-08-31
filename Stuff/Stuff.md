@@ -8,12 +8,9 @@
 
 # something
 
-[[Debt#Tad|Debt to tad]]
-![[Debt#Tad|Debt to tad]]
-
-```Python
-for i in range(0,10):
+```python
+for i in range(0,20):
 	print(i)
-```
 
-asdf
+
+```
