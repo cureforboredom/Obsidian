@@ -1,4 +1,5 @@
-![[Drawing.excalidraw]]
+![[Drawing.excalidraw.svg]]
+
 
 | h1  | h2  |
 | --- | --- |
