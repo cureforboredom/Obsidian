@@ -1,1 +1,2 @@
-FUUUUUUUUUUUUUUUUUUUCK + 2 from linux
+![[Drawing.excalidraw]]
+
