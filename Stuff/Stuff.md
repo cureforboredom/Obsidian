@@ -15,3 +15,9 @@ for i in range(0,20):
 
 
 ```
+
+```dataview
+TABLE title, length
+WHERE length AND length <= "1min"
+```
+

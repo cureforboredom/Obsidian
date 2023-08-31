@@ -31,8 +31,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 344.20001220703125,
-		"scrollY": 442.8125,
+		"scrollX": 546.25,
+		"scrollY": 448.8062438964844,
 		"zoom": {
 			"value": 1
 		},
