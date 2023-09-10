@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73cba523-2b2e-431a-839d-723741819333</dc:identifier>
+        <dc:title>Iron Prince: Warformed: Stormweaver, Book 1</dc:title>
+        <dc:creator opf:file-as="O'Connor, Bryce &amp; Chmilenko, Luke" opf:role="aut">Bryce O'Connor</dc:creator>
+        <dc:creator opf:file-as="O'Connor, Bryce &amp; Chmilenko, Luke" opf:role="aut">Luke Chmilenko</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-15T16:01:42.784812+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Reidon Ward will become a god. &lt;/p&gt;
+&lt;p&gt;He doesn't know it yet, of course. Reidon was born weak, sickly and small. Afflicted with a painful disease and abandoned by his parents because of it, he has had to fight tooth and nail for every minor advantage life has allowed him. &lt;/p&gt;
+&lt;p&gt;His perseverance has not gone unnoticed, however, and when the most powerful artificial intelligence in human history takes an interest in him, things began to change quickly. Granted a CAD—a Combat Assistance Device—with awful specs but an infinite potential for growth, Reidon finds himself at the bottom of his class at the Galens Institute, one of the top military academies in the Collective. Along with his best friend, Viviana Arada, Reidon will have to start his long climb through the school rankings, and on to the combat tournament circuits that have become humanity's greatest source of excitement and entertainment. &lt;/p&gt;
+&lt;p&gt;So begins the rise of a god. So begins the ascent of the Stormweaver. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wraithmarked Creative, LLC</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08KGT4CLQ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08KGT4CLQ</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QhPzzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780999192092</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speculative</dc:subject>
+        <meta name="calibre:series" content="Warformed: Stormweaver"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-09-07T15:58:11.924049+00:00"/>
+        <meta name="calibre:title_sort" content="Iron Prince: Warformed: Stormweaver, Book 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

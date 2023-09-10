@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64729fcf-20e8-477f-acc4-27b9d5ee983a</dc:identifier>
+        <dc:title>Radley's Labyrinth for Horny Monsters</dc:title>
+        <dc:creator opf:file-as="Hawthorne, Annabelle" opf:role="aut">Annabelle Hawthorne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In all the time Mike had been alive, he’d never had much need for home repair. Any issues inside of the house had been fixable with a quick call to the landlord, and the worst he had ever dealt with was a dishwasher that had backed up onto his kitchen floor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wet Leaf Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781949654028</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08D7ZLGCN</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="Radley's Home for Horny Monsters"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-09-09T19:28:42.241828+00:00"/>
+        <meta name="calibre:title_sort" content="Radley's Labyrinth for Horny Monsters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

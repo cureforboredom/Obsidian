@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68790c59-70e0-4767-b2af-aa87601aa3a8</dc:identifier>
+        <dc:title>Battlemaster's Skirmish: A LitRPG Monster Girl Harem Adventure</dc:title>
+        <dc:creator opf:file-as="Pierce, Nathan" opf:role="aut">Nathan Pierce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-21T10:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09T3GYJFS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="Tournion"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="9"/>
+        <meta name="calibre:timestamp" content="2023-09-07T15:58:13.210789+00:00"/>
+        <meta name="calibre:title_sort" content="Battlemaster's Skirmish: A LitRPG Monster Girl Harem Adventure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

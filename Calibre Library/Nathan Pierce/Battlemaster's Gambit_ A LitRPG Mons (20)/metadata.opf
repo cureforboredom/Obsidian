@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e94ba1de-b4d7-4c0f-be42-41d5f56fac48</dc:identifier>
+        <dc:title>Battlemaster's Gambit: A LitRPG Monstergirl Harem Adventure</dc:title>
+        <dc:creator opf:file-as="Pierce, Nathan" opf:role="aut">Nathan Pierce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-29T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Resurrected to dominate or die again?&lt;/strong&gt;&lt;br /&gt;
+Andric was much like anyone else, further along in his life than he wanted to be. Much further along, and waiting to finally become the main character of his own story.&lt;br /&gt;
+Fate had a funny joke for him, though.&lt;br /&gt;
+He died.&lt;br /&gt;
+Unexpectedly he was given the strangest of plot developments. He resurrected in what seemed to be a GACHA game&lt;br /&gt;
+Being given another chance on another world. One where he could redefine himself, starting with an unknown class of all things.&lt;br /&gt;
+Andric can only roll with it since there really isn’t any other choice.&lt;br /&gt;
+It’s time to start again and this time he’ll have to get risky, take chances, and let luck play a part.&lt;br /&gt;
+Regardless if it’s good or bad.&lt;br /&gt;
+First up for that new life motto is his class and he’s definitely taking a risk.&lt;br /&gt;
+Unknowingly, he’s given up on a typical RGP character development in favor of an unconventional class where his powers hinge on the luck of the draw.&lt;br /&gt;
+Disclaimer: This book contains copious amounts of sex, violence, cursing, and stats. There are strange cultures in a fantasy land that have very murky morals and do not adhere to any kind of human ideal of decency. This book also contains unconventional relationships and questionable moral choices.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09KQ79NVM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="Tournion"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="9"/>
+        <meta name="calibre:timestamp" content="2023-09-07T15:58:13.298812+00:00"/>
+        <meta name="calibre:title_sort" content="Battlemaster's Gambit: A LitRPG Monstergirl Harem Adventure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

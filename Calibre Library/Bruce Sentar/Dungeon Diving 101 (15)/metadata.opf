@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">292c2db3-bcdb-4dfd-bd22-b9e2a928eb3d</dc:identifier>
+        <dc:title>Dungeon Diving 101</dc:title>
+        <dc:creator opf:file-as="Sentar, Bruce" opf:role="aut">Bruce Sentar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-08T18:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The Dungeon is a place of magic and mystery, a vast branching, underground labyrinth that has changed the world and the people who dare to enter its depths. Those who brave its challenges are rewarded with wealth, fame, and powerful classes that set them apart from the rest.&lt;/p&gt;
+
+&lt;p&gt;Ken was determined to follow the footsteps of his family and become one of the greatest adventurers the world has ever known. He knows that the only way to do that is to get into one of the esteemed Dungeon colleges, where the most promising young adventurers gather.&lt;/p&gt;
+
+&lt;p&gt;Despite doing fantastic on the entrance exam, when his class is revealed, everyone turns their backs on him, all except for one.&lt;/p&gt;
+
+&lt;p&gt;The most powerful adventurer, Crimson, invites him to the one college he never thought he'd enter. Haylon, an all girls college.&lt;/p&gt;
+
+&lt;p&gt;Ken sets out to put together a party and master the skills he'll need to brave the Dungeon's endless dangers. But he soon discovers that the path ahead is far more perilous than he could have ever imagined.&lt;/p&gt;</dc:description>
+        <dc:publisher>Amazon Digital Services LLC - Kdp</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BRQWMGTF</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="Dungeon Diving"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-09-07T15:58:12.777728+00:00"/>
+        <meta name="calibre:title_sort" content="Dungeon Diving 101"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

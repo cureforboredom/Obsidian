@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34097ea1-d00e-4253-b416-905b29205e5a</dc:identifier>
+        <dc:title>World Nexus, the Grand Game, Book 3: A Dark Fantasy LitRPG Adventure</dc:title>
+        <dc:creator opf:file-as="Elliot, Tom" opf:role="aut">Tom Elliot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Multiplying foes. A deadly city. And with no clear path to his goals, how will Michael survive Nexus?&lt;/strong&gt;&lt;br /&gt;
+Michael reaches Nexus, but finds advancing more challenging than he’d anticipated. Factions abound, allegiances shift, and separating truth from lies is harder than ever.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The line between friend and foe blurs, and Michael’s path grows murkier.&lt;/strong&gt;&lt;br /&gt;
+Nexus is a place of both opportunity and danger. Sitting at the heart of the world, the city is home to thousands—ordinary people, players, but Powers too. Can Michael remain free of their clutches, or will he become entangled in the Powers’ machinations?  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Will Nexus be the death of Michael?&lt;/strong&gt;&lt;br /&gt;
+Follow Michael on his epic journey and find out!  &lt;/p&gt;
+&lt;p&gt;PRAISE FOR THE GRAND GAME:&lt;br /&gt;
+&lt;em&gt;“Interesting portal litrpg. Well-paced and the start of a new series. Curious to see where it goes...” —&lt;/em&gt; &lt;strong&gt;Tao Wong on goodreads.com.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“… Great action, great storyline and I honestly binge read it, start to end…” —&lt;/em&gt; &lt;strong&gt;Alex Kozlowski on goodreads.com.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Smart MC. Great Tension. Full of Action.” —&lt;/em&gt; &lt;strong&gt;CookieCrumble on RoyalRoad.com.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Everything I look for in a LitRPG.” —&lt;/em&gt; &lt;strong&gt;CosmereCradleChris on RoyalRoad.com&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Oh I liked this very much!” —&lt;/em&gt; &lt;strong&gt;The Enlightened Beard on amazon.com.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“One of the best in this category this year.” —&lt;/em&gt; &lt;strong&gt;kindle customer on amazon.com.&lt;/strong&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Blooming Bull</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0B7RZWQS5</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0B7RZWQS5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>A LitRPG Novel</dc:subject>
+        <dc:subject>LitRPG</dc:subject>
+        <dc:subject>GameLIT</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <meta name="calibre:series" content="The Grand Game"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-09-07T15:58:11+00:00"/>
+        <meta name="calibre:title_sort" content="World Nexus, the Grand Game, Book 3: A Dark Fantasy LitRPG Adventure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

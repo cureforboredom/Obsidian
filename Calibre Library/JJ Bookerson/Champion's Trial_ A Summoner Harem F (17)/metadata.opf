@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a57049c3-5695-4284-8342-2ad5243a9c77</dc:identifier>
+        <dc:title>Champion's Trial: A Summoner Harem Fantasy LitRPG</dc:title>
+        <dc:creator opf:file-as="Bookerson, JJ" opf:role="aut">JJ Bookerson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-17T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Delving dungeons by day, relaxing with cute monster girls at night.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When a God of War barged into his apartment, Jake had no idea what to expect... but it wasn't being forced into a never-ending war against evil invaders, or that the battle would strangely resemble the MMORPG games he loved.&lt;/p&gt;
+&lt;p&gt;Working hard and building himself up from almost nothing, Jake would need every bit of knowledge and preparation to master his new class of Summoner. Joined by a sly Demoness with an ancient past and a shy Valkyrie hoping to prove herself in battle, they'll find excitement and enjoyment as they level and grow in power.&lt;/p&gt;
+&lt;p&gt;Will Jake be strong enough to face the challenges of an evil labyrinth, or will he die and be separated from his new family forever, waiting to respawn in the void?  &lt;/p&gt;
+&lt;p&gt;Bonded Summoner Book 1 has already been enjoyed on RoyalRoad and Scribblehub, with over 350,000 views between the two platforms. What are you waiting for?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt; : Contains: LitRPG system, multiple love interests, adult content, cultivation, probably too long status sheets, dungeon crawling, dating, and an infinite universe.&lt;/p&gt;</dc:description>
+        <dc:publisher>Independently published</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BXMJ6TH9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="Bonded Summoner"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-09-07T15:58:13.010756+00:00"/>
+        <meta name="calibre:title_sort" content="Champion's Trial: A Summoner Harem Fantasy LitRPG"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

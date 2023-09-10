@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82a6eee6-f372-4a86-9f1c-789aaf54f3cb</dc:identifier>
+        <dc:title>The Grand Game, Book 1: A Dark Fantasy Adventure</dc:title>
+        <dc:creator opf:file-as="Elliot, Tom" opf:role="aut">Tom Elliot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;One man. Assassin. Caster. A new world. And a Game that is as brutal as it is complex.&lt;/p&gt;
+
+&lt;p&gt;Michael finds himself in the realm of the Forever Kingdom, with no memory of how he got there and who he is. Even so, he must participate in the Grand Game and forge a new destiny for himself.&lt;/p&gt;
+
+&lt;p&gt;Dropped into a dungeon of monsters, and strange magics, would you survive in a Game where to lose means death?Alone, and with little more than his wits to aid him, Michael must advance as a player, slay his foes, and gain experience. All while navigating the intrigues around him and discovering his purpose.&lt;/p&gt;
+
+&lt;p&gt;A world of Powers, Forces, and mysterious factions. A Game with endless opportunities for advancement and power.&lt;/p&gt;
+
+&lt;p&gt;Join Michael on his epic adventure as he deals with the Game's challenges, the machinations of the Powers, and the ambitions of his fellow players.&lt;/p&gt;
+
+&lt;p&gt;The start of an exciting new portal fantasy epic!&lt;/p&gt;</dc:description>
+        <dc:publisher>Blooming Bull</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="The Grand Game"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-09-07T15:58:12+00:00"/>
+        <meta name="calibre:title_sort" content="Grand Game, Book 1: A Dark Fantasy Adventure, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
