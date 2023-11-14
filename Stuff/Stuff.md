@@ -1,7 +1,12 @@
-[[Book Idea]]
+- [ ] Kelly
+- [ ] Wendy * 
+- [x] Steven
+- [x] Alyssa
+- [ ] Jess
+- [x] Tyler
+- [ ] Clayton * headphones
+- [ ] Holly
+- [x] Eli
+- [x] Charlie
 
-
-> [!CODE]- [[Book Idea]]
-> ![[Book Idea]]
-
-
+- [x] Zack
