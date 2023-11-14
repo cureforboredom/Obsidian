@@ -1,5 +1,5 @@
 - [ ] Kelly
-- [ ] Wendy * 
+- [x] Wendy * 
 - [x] Steven
 - [x] Alyssa
 - [ ] Jess
