@@ -30,6 +30,7 @@ Weekly calorie needs (12000) = Daily calorie needs * 6 (deficit for weight loss)
 ### Disallowed Food and Drink
 - Any drink with calories
 - Dairy
+- Red meat
 - Bread (With the exception of subway)
 - White flour/rice based foods
 - Sugary or processed foods
