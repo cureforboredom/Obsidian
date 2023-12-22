@@ -31,7 +31,7 @@ Weekly calorie needs (12000) = Daily calorie needs * 6 (deficit for weight loss)
 - Any drink with calories
 - Dairy
 - Red meat
-- Bread (With the exception of subway)
+- Bread
 - White flour/rice based foods
 - Sugary or processed foods
 
