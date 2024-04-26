@@ -13,3 +13,5 @@ she squares up the deck, and places it on top of her card. I memorize the previo
 she cuts the deck, then deals through the cards.
 
 I pretend to miss her card, then have her go back and reveal she picked the card I imagined. Demonstrated by me showing her the card I have in my pocket.
+
+3134189799
