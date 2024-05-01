@@ -1,4 +1,4 @@
-## Weightloss Journey
+## Weight loss Journey
 ##### Started Keto
 
 |Date |Weight|
@@ -20,8 +20,15 @@
 ##### Started Diet and Fasting
 
 | Date     | Weight |
-|:-------- |:------:|
+| :------- | :----: |
 | 12/09/23 |  212   |
 | 12/14/23 |  213   |
-| 12/25/23 |  210   | 
+| 12/25/23 |  210   |
+
+##### Started getting serious
+
+| Date     | Weight |
+| :------- | :----: |
+| 05/01/24 | 204.9  |
+|          |        |
 
