@@ -1,15 +1,25 @@
 # Nutrition
 - ### Calorie Intake
 	- ##### Cutting
-		- 
+		- Use high volume, low calorie foods to create a full feeling
+		- Prioritize protein and micro nutrients to support fitness while on a deficit
 	- ##### Bulking
-		- 
+		- Avoid dirty bulks
+		- Eat an even mix of healthy carbs, proteins, and fats
+		- Maintain fiber intake while lowering consumption of high volume foods
 - ### Macro Nutrients
-	- 
+	- Protein for muscle growth
+	- Fats for energy
+	- Carbs should be avoided when not bulking
 - ### Micro Nutrients
+	- Supplement things like Omega-3s when necessary
+	- Attempt to fulfill deficiencies through whole foods
 	- 
 - ### Cooking Skills
-	- 
+	- Learn new recipes often
+	- Experiment more with Molecular Gastronomy
+	- Practice knife skills
+	- Cook for other people as often as possible
 # Exercise
 - ### Cardio
 	- Walking
