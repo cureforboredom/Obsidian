@@ -14,16 +14,28 @@
 - ### Cardio
 	- Walking
 	- Biking
+	- Shadow Boxing
 - ### Resistance Training
 	- ##### Push
-		- Bench Press
+		- Low Incline Dumbbell Press
+		- Flat Dumbbell Bench Press
+		- Dumbbell Shoulder Press
+		- Lateral Raise
+		- Triceps Kickback
+		- Overhead Triceps Extension
 	- ##### Pull
+		- Incline High Row
 		- Curls
+		- Hammer Curls
+		- Dumbbell Pullover
 	- ##### Legs
-		- Squats
+		- Dumbbell Romanian Deadlift
+		- Dumbbell Leg Extension
+		- Dumbell Squat
+		- Hip Thrust
 - ### Flexibility
 	- Yoga
-	- 
+	- Hybrid Calisthenics
 # Hygiene
 - ### Personal Cleanliness
 	- Shower
@@ -90,6 +102,12 @@
 	- ##### ...
 		- 
 # Introspection
+- ### Journaling
+	- 
+- ### Reminiscing
+	- 
+- ### Investigate Decisions and Emotions
+	- 
 - ### ...
 	- 
 # Joy
