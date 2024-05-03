@@ -14,7 +14,7 @@
 - ### Micro Nutrients
 	- Supplement things like Omega-3s when necessary
 	- Attempt to fulfill deficiencies through whole foods
-	- 
+	- Take creatine
 - ### Cooking Skills
 	- Learn new recipes often
 	- Experiment more with Molecular Gastronomy
@@ -41,7 +41,7 @@
 	- ##### Legs
 		- Dumbbell Romanian Deadlift
 		- Dumbbell Leg Extension
-		- Dumbell Squat
+		- Dumbbell Squat
 		- Hip Thrust
 - ### Flexibility
 	- Yoga
@@ -88,16 +88,12 @@
 		- Relativity
 		- Quantum mechanics
 		- Biology
-		- ...
 	- ##### Language
 		- Linguistics
 		- Phonetics
 		- Spanish
 		- Japanese
 		- ASL
-		- ...
-	- ### ...
-		- 
 - ### Interests
 	- ##### Programming
 		- Rust
@@ -117,9 +113,6 @@
 		- Dive into the connection between sound and emotion
 		- Gain an intuitive understanding of the dynamics of sound
 		- Learn to read sheet music quickly
-		- ...
-	- ##### ...
-		- 
 # Introspection
 - ### Journaling
 	- Unstructured flow of consciousness
@@ -148,6 +141,7 @@
 - ### Personal Joy
 	- Music
 	- Games
+	- Puzzles
 	- Books
 	- Creation
 	- Hacking
