@@ -1,0 +1,77 @@
+# Nutrition
+- ### Calorie Intake
+	- ##### Cutting
+		- 
+	- ##### Bulking
+		- 
+- ### Macro Nutrients
+	- 
+- ### Micro Nutrients
+	- 
+- ### Cooking Skills
+	- 
+# Exercise
+- ### Cardio
+	- Walking
+	- Biking
+- ### Resistance Training
+	- ##### Push
+		- Bench Press
+	- ##### Pull
+		- Curls
+	- ##### Legs
+		- Squats
+- ### Flexibility
+	- Yoga
+	- 
+# Hygiene
+- ### Personal Cleanliness
+	- Shower
+	- Brush Teeth
+	- Clean Clothes
+	- Skin Care
+- ### Environmental Cleanliness
+	- Dishes
+	- Floors
+	- Surfaces
+	- Tidiness
+	- Desk
+- ### Appearance
+	- Outfit
+	- Grooming
+# Sleep
+- ### Quality
+	- 
+- ### Quantity
+	- 
+# Education
+- ### Core Knowlegde
+	- ##### Math
+		- 
+	- ##### Logic
+		- 
+	- ##### Science
+		- 
+	- ##### Language
+		- 
+	- ### ...
+		- 
+- ### Interests
+	- ##### Programming
+		- 
+	- ##### Game Design
+		- 
+	- ##### Music Theory
+		- 
+	- ##### ...
+		- 
+# Introspection
+- ### ...
+	- 
+# Joy
+- ### Personal Joy
+	- 
+- ### Social Joy
+	- 
+- ### Future Joy
+	- 
