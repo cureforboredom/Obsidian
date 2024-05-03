@@ -41,24 +41,48 @@
 	- Grooming
 # Sleep
 - ### Quality
-	- 
+	- Ritualize Going to sleep
+	- Wear comfortable clothes for sleeping in
+	- Find and remove barriers to deep sleep
 - ### Quantity
-	- 
+	- Sleep when tired
+	- Prioritize sleep over entertainment
 # Education
-- ### Core Knowlegde
+- ### Core Knowledge
 	- ##### Math
-		- 
+		- Practice arithmetic through pre-calc
+		- Learn new concepts
+		- Engage in number theory puzzles
+		- Delve into math entertainment
 	- ##### Logic
-		- 
+		- Play logic games
+		- Do logic puzzles
+		- Learn new fallacies
+		- Learn new reasoning strategies
 	- ##### Science
-		- 
+		- Chemistry
+		- Material science
+		- Physics
+		- Relativity
+		- Quantum mechanics
+		- Biology
+		- ...
 	- ##### Language
-		- 
+		- Linguistics
+		- Phonetics
+		- Spanish
+		- Japanese
+		- ASL
+		- ...
 	- ### ...
 		- 
 - ### Interests
 	- ##### Programming
-		- 
+		- Rust
+		- Python
+		- Idioms
+		- Algorithms
+		- Coding Puzzles
 	- ##### Game Design
 		- 
 	- ##### Music Theory
@@ -70,8 +94,19 @@
 	- 
 # Joy
 - ### Personal Joy
-	- 
+	- Music
+	- Games
+	- Books
+	- Creation
+	- Hacking
+	- Go outside
+	- Try new things
 - ### Social Joy
-	- 
+	- Service
+	- Compliments
+	- Gratitude
+	- Relationship introspection and growth
 - ### Future Joy
-	- 
+	- Maintain hobbies
+	- Create goals
+	- Cherish relationships
