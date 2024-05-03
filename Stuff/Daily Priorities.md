@@ -106,20 +106,44 @@
 		- Algorithms
 		- Coding Puzzles
 	- ##### Game Design
-		- 
+		- Game jams
+		- UI design
+		- Game feel
+		- UX theory
+		- Mechanics
+		- Art
+		- Sound
 	- ##### Music Theory
-		- 
+		- Dive into the connection between sound and emotion
+		- Gain an intuitive understanding of the dynamics of sound
+		- Learn to read sheet music quickly
+		- ...
 	- ##### ...
 		- 
 # Introspection
 - ### Journaling
-	- 
+	- Unstructured flow of consciousness
+	- Q&A
+	- Writing down things I've learned or experienced
+	- Notes on things I see, learn, think, etc.
 - ### Reminiscing
-	- 
+	- Uncover "Core Memories"
+	- Process trauma
+	- Remember old interests/relationships
 - ### Investigate Decisions and Emotions
-	- 
-- ### ...
-	- 
+	- Analyze my reasoning, feelings, and responses to events
+	- Determine the root of my emotions
+	- Accept, then change, unhealthy behaviors and thought patterns
+- ### Meditation
+	- Reclaim the silence
+	- Enjoy my own company
+	- Engage my imagination and curiosity
+	- Find the moment
+- ### Question the basis of my values
+	- Reflect on my personal bias
+	- Determine the reasoning behind my morals
+	- Reflect on my choice of objectivity or subjectivity when understanding others
+	- Be objective with my opinions and values
 # Joy
 - ### Personal Joy
 	- Music
