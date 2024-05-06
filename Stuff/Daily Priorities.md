@@ -38,6 +38,7 @@
 		- Curls
 		- Hammer Curls
 		- Dumbbell Pullover
+		- Body weight Rows
 	- ##### Legs
 		- Dumbbell Romanian Deadlift
 		- Dumbbell Leg Extension
