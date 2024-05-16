@@ -74,6 +74,10 @@
 - ### Core Knowledge
 	- ##### Math
 		- Practice arithmetic through pre-calc
+		- Finally master Calculus!
+			- 3Blue1Brown - Essence of calculus
+			- Brilliant
+			- Find other sources for learning calculus
 		- Learn new concepts
 		- Engage in number theory puzzles
 		- Delve into math entertainment
