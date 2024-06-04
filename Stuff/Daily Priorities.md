@@ -20,6 +20,7 @@
 	- Experiment more with Molecular Gastronomy
 	- Practice knife skills
 	- Cook for other people as often as possible
+----
 # Exercise
 - ### Cardio
 	- Walking
@@ -47,6 +48,7 @@
 - ### Flexibility
 	- Yoga
 	- Hybrid Calisthenics
+----
 # Hygiene
 - ### Personal Cleanliness
 	- Shower
@@ -62,6 +64,7 @@
 - ### Appearance
 	- Outfit
 	- Grooming
+----
 # Sleep
 - ### Quality
 	- Ritualize Going to sleep
@@ -70,6 +73,7 @@
 - ### Quantity
 	- Sleep when tired
 	- Prioritize sleep over entertainment
+----
 # Education
 - ### Core Knowledge
 	- ##### Math
@@ -118,6 +122,7 @@
 		- Dive into the connection between sound and emotion
 		- Gain an intuitive understanding of the dynamics of sound
 		- Learn to read sheet music quickly
+----
 # Introspection
 - ### Journaling
 	- Unstructured flow of consciousness
@@ -142,6 +147,7 @@
 	- Determine the reasoning behind my morals
 	- Reflect on my choice of objectivity or subjectivity when understanding others
 	- Be objective with my opinions and values
+----
 # Joy
 - ### Personal Joy
 	- Music
@@ -161,3 +167,4 @@
 	- Maintain hobbies
 	- Create goals
 	- Cherish relationships
+
