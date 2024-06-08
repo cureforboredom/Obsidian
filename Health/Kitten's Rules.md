@@ -1,0 +1,11 @@
+- ## Daily:
+	- Weigh myself each morning and send a pic of the scale
+	- Shower
+	- Brush and floss and mouthwash in the morning and before bed
+- ## Weekly:
+	- Shave face, pits, and groin
+	- Paint finger and toe nails
+	- X Hours writing hypno
+	- X Hours practicing guitar
+- ## General
+	- No alcohol
